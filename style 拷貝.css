@@ -1,0 +1,114 @@
+.page1 {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+span.ttl {
+    font-size: 5vw;
+}
+
+div p.ttl2 {
+    font-size: 2vw;
+    top: 58%;
+    left: 4%;
+    color: burlywood;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.page1 img {
+    width: 100%;
+    z-index: -100;
+}
+
+.page1 p {
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    font-family: monospace;
+    font-size: 4vw;
+    z-index: 900;
+}
+
+div.page2 {
+    background-color: rgb(52, 58, 64);
+    height: auto;
+}
+
+div.page2 p.title {
+    color: wheat;
+    position: relative;
+    top: 28%;
+    left: -25%;
+    font-size: 3.5vw;
+}
+
+.page2 ul.content {
+    line-height: 200%;
+    color: white;
+    position: relative;
+    left: 51%;
+    top: -10%;
+    text-align: left;
+    font-size: 2.65vw;
+}
+
+h1 {
+    font-size: 4.5vw;
+}
+
+h3 {
+    font-size: 4vw;
+}
+
+.page3 {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+.page3 img {
+    width: 100%;
+}
+
+.page3 div.words {
+    position: absolute;
+    top: 5%;
+    left: 44%;
+}
+
+.page3 p.content {
+    font-size: 3vw;
+}
+
+.page4 {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+.page4 img {
+    width: 100%;
+}
+
+.page4 div.words {
+    position: absolute;
+    top: 3%;
+    left: 26%;
+    text-align: center;
+}
+
+.page4 p.content {
+    font-size: 3vw;
+    line-height: 200%;
+}

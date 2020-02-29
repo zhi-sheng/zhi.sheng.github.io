@@ -1,0 +1,41 @@
+div.page1 span.a {
+    position: absolute;
+    z-index: 900;
+    background-color: white;
+    top: 15%;
+    left: 0.5%;
+    width: 30vw;
+    height: 0.5vw;
+}
+
+div.page1 span.b {
+    position: absolute;
+    z-index: 900;
+    background-color: white;
+    top: 73%;
+    left: 0.5%;
+    width: 25vw;
+    height: 0.5vw;
+}
+
+div.page1 span.c {
+    position: absolute;
+    z-index: 900;
+    background-color: white;
+    transform: rotate(90deg);
+    top: 32%;
+    left: -8%;
+    width: 20vw;
+    height: 0.5vw;
+}
+
+div.page1 span.d {
+    position: absolute;
+    z-index: 900;
+    background-color: white;
+    transform: rotate(-66deg);
+    top: 43%;
+    left: 10%;
+    width: 42vw;
+    height: 0.5vw;
+}

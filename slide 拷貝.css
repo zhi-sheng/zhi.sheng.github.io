@@ -1,0 +1,33 @@
+.slide {
+    animation-name: slide;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+    animation-fill-mode: both;
+}
+
+@keyframes slide {
+    0% {
+        left: -30%;
+    }
+    100% {
+        left: 3.5%;
+    }
+}
+
+.slide2 {
+    animation-name: slide2;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-fill-mode: both;
+}
+
+@keyframes slide2 {
+    0% {
+        left: -30%;
+    }
+    100% {
+        left: 0%;
+    }
+}

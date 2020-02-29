@@ -1,0 +1,77 @@
+.colorshiney {
+    position: relative;
+    animation-name: colorshiney;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-delay: 1.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes colorshiney {
+    0% {
+        color: #FF0000;
+    }
+    12.5% {
+        color: #FFC0CB;
+    }
+    25% {
+        color: #FFA500;
+    }
+    37.5% {
+        color: #FFFF00;
+    }
+    50% {
+        color: #98FB98;
+    }
+    62.5% {
+        color: #00FFFF;
+    }
+    75% {
+        color: #0000CD;
+    }
+    87.5% {
+        color: #FF00FF;
+    }
+    100% {
+        color: #FF0000;
+    }
+}
+
+.colorshiney2 {
+    position: relative;
+    animation-name: colorshiney2;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-delay: 2.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes colorshiney2 {
+    0% {
+        color: #FF0000;
+    }
+    12.5% {
+        color: #FFC0CB;
+    }
+    25% {
+        color: #FFA500;
+    }
+    37.5% {
+        color: #FFFF00;
+    }
+    50% {
+        color: #98FB98;
+    }
+    62.5% {
+        color: #00FFFF;
+    }
+    75% {
+        color: #0000CD;
+    }
+    87.5% {
+        color: #FF00FF;
+    }
+    100% {
+        color: #FF0000;
+    }
+}
